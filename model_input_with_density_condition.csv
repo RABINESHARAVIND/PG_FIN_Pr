@@ -1,0 +1,202 @@
+Number of Deaths,Country_Code,Estimated Actual Capacity,Arrived Capacity,Crowd Density,Crowd Condition,Stampede_Risk
+30,0,5000,40000,8,Critical (stampede likely),Medium
+53,1,5000,40000,8,Critical (stampede likely),High
+5000,2,3000,8000,2.666666667,Tightly Packed (risk increases),Critical
+66,3,3000,8000,2.666666667,s,High
+110,4,300,110,0.366666667,Comfortable,High
+251,5,300,110,0.366666667,Comfortable,High
+65,0,800,1000,1.25,Manageable,High
+953,6,800,1000,1.25,Manageable,Critical
+20,0,150,400,2.666666667,Tightly Packed (risk increases),Medium
+291,1,150,400,2.666666667,Tightly Packed (risk increases),High
+19,7,150,200,1.333333333,Manageable,Medium
+224,1,150,200,1.333333333,Manageable,High
+278,8,1000,1000,1,Manageable,High
+21,9,1000,1000,1,Manageable,Medium
+12,8,100,300,3,Tightly Packed (risk increases),Medium
+183,0,300,1100,3.666666667,Tightly Packed (risk increases),High
+60,1,300,1100,3.666666667,Tightly Packed (risk increases),High
+40,10,150,200,1.333333333,Manageable,Medium
+9,11,150,200,1.333333333,Manageable,Low
+1389,10,2000,100000,50,Critical (stampede likely),Critical
+10,12,2000,100000,50,Critical (stampede likely),Low
+115,8,300,500,1.666666667,Manageable,High
+159,13,300,500,1.666666667,Manageable,High
+602,8,200,400,2,Tightly Packed (risk increases),Critical
+16,0,100,120,1.2,Manageable,Medium
+15,1,100,120,1.2,Manageable,Medium
+175,8,400,500,1.25,Manageable,High
+6,1,400,500,1.25,Manageable,Low
+73,8,500,500,1,Manageable,High
+6,1,500,500,1,Manageable,Low
+65,14,300,300,1,Manageable,High
+4,1,300,300,1,Manageable,Low
+71,0,600,700,1.166666667,Manageable,High
+115,1,600,700,1.166666667,Manageable,High
+76,15,300,10000,33.33333333,Critical (stampede likely),High
+63,1,300,10000,33.33333333,Critical (stampede likely),High
+354,16,500,2000,4,Critical (stampede likely),Critical
+250,1,500,2000,4,Critical (stampede likely),High
+173,0,300,500,1.666666667,Manageable,High
+121,1,300,500,1.666666667,Manageable,High
+168,8,2000,7000,3.5,Tightly Packed (risk increases),High
+33,0,15000,25000,1.666666667,Manageable,Medium
+53,17,1000,3000,3,Tightly Packed (risk increases),High
+109,18,5000,100000,20,Critical (stampede likely),High
+650,1,2000,100000,50,Critical (stampede likely),Critical
+124,15,1000,3000,3,Tightly Packed (risk increases),High
+328,19,35000,53000,1.514285714,Manageable,Critical
+71,20,20000,30000,1.5,Manageable,High
+66,0,15000,30000,2,Tightly Packed (risk increases),High
+11,8,10000,19000,1.9,Manageable,Medium
+7,21,20000,40000,2,Tightly Packed (risk increases),Low
+21,22,15000,30000,2,Tightly Packed (risk increases),Medium
+66,18,10000,15000,1.5,Manageable,High
+39,23,40000,60000,1.5,Manageable,Medium
+28,24,500,1000,2,Tightly Packed (risk increases),Medium
+93,25,10000,30000,3,Tightly Packed (risk increases),High
+2,0,50000,70000,1.4,Manageable,Low
+97,0,35000,58000,1.657142857,Manageable,High
+1426,5,20000,50000,2.5,Tightly Packed (risk increases),Critical
+40,26,23000,30000,1.304347826,Manageable,Medium
+3,8,13294,13294,1,Manageable,Low
+42,27,500,1000,2,Tightly Packed (risk increases),Medium
+105,24,10000,20000,2,Tightly Packed (risk increases),High
+9,8,1000,5000,5,Critical (stampede likely),Low
+21,28,5000,20000,4,Critical (stampede likely),Medium
+0,8,50000,70000,1.4,Manageable,Low
+270,5,20000,30000,1.5,Manageable,High
+113,1,10000,40000,4,Critical (stampede likely),High
+3,29,1000,3000,3,Tightly Packed (risk increases),Low
+83,30,37500,50000,1.333333333,Manageable,High
+1,31,200000,350000,1.75,Manageable,Low
+118,5,200000,200000,1,Manageable,High
+53,1,150000,200000,1.333333333,Manageable,High
+53,32,5000,8000,1.6,Manageable,High
+6,33,1000,1500,1.5,Manageable,Low
+9,34,3000,5000,1.666666667,Manageable,Low
+12,35,40000,50000,1.25,Manageable,Medium
+35,5,250000,250000,1,Manageable,Medium
+43,26,60000,70000,1.166666667,Manageable,Medium
+127,36,40000,50000,1.25,Manageable,High
+11,15,15000,20000,1.333333333,Manageable,Medium
+7,37,500,1000,2,Tightly Packed (risk increases),Low
+14,5,250000,250000,1,Manageable,Medium
+21,8,1000,1500,1.5,Manageable,Medium
+100,8,500,1000,2,Tightly Packed (risk increases),High
+251,5,300000,300000,1,Manageable,High
+37,24,5000,10000,2,Tightly Packed (risk increases),Medium
+21,1,3000,5000,1.666666667,Manageable,Medium
+3,5,2000,3000,1.5,Manageable,Low
+291,1,200000,300000,1.5,Manageable,High
+7,38,100000,120000,1.2,Manageable,Low
+953,6,1000000,1000000,1,Manageable,Critical
+42,1,10000,15000,1.5,Manageable,Medium
+345,5,300000,300000,1,Manageable,Critical
+3,21,8000,10000,1.25,Manageable,Low
+78,39,25000,30000,1.2,Manageable,High
+51,40,20000,25000,1.25,Manageable,High
+12,41,20000,30000,1.5,Manageable,Medium
+14,1,5000,10000,2,Tightly Packed (risk increases),Medium
+3,42,300,2500,8.333333333,Critical (stampede likely),Low
+12,43,10000,30000,3,Tightly Packed (risk increases),Medium
+2,0,800,1500,1.875,Manageable,Low
+16,1,2000,5000,2.5,Tightly Packed (risk increases),Medium
+2,44,80000,100000,1.25,Manageable,Low
+1,26,1000,3000,3,Tightly Packed (risk increases),Low
+74,45,20000,40000,2,Tightly Packed (risk increases),High
+3,45,50000,100000,2,Tightly Packed (risk increases),Low
+5,46,2000,5000,2.5,Tightly Packed (risk increases),Low
+18,1,3000,8000,2.666666667,Tightly Packed (risk increases),Medium
+60,47,30000,50000,1.666666667,Manageable,High
+10,48,20000,40000,2,Tightly Packed (risk increases),Low
+242,21,1000,2000,2,Tightly Packed (risk increases),High
+36,1,10000,20000,2,Tightly Packed (risk increases),Medium
+4,43,1000,3000,3,Tightly Packed (risk increases),Low
+17,44,5000,10000,2,Tightly Packed (risk increases),Medium
+115,1,20000,40000,2,Tightly Packed (risk increases),High
+28,43,5000,15000,3,Tightly Packed (risk increases),Medium
+14,24,3000,5000,1.666666667,Manageable,Medium
+18,1,5000,10000,2,Tightly Packed (risk increases),Medium
+24,43,50000,1000000,20,Critical (stampede likely),Medium
+14,49,2000,5000,2.5,Tightly Packed (risk increases),Medium
+15,49,20000,40000,2,Tightly Packed (risk increases),Medium
+34,50,3000,10000,3.333333333,Tightly Packed (risk increases),Medium
+32,1,10000,20000,2,Tightly Packed (risk increases),Medium
+7,51,10000,30000,3,Tightly Packed (risk increases),Low
+11,35,3000,10000,3.333333333,Tightly Packed (risk increases),Medium
+36,24,5000,10000,2,Tightly Packed (risk increases),Medium
+28,45,30000,60000,2,Tightly Packed (risk increases),Medium
+16,52,20000,50000,2.5,Tightly Packed (risk increases),Medium
+23,53,1000,3000,3,Tightly Packed (risk increases),Medium
+27,1,10000,150000,15,Critical (stampede likely),Medium
+11,1,5000,30000,6,Critical (stampede likely),Medium
+2500,5,1000000,2000000,2,Tightly Packed (risk increases),Critical
+3,7,1000,3000,3,Tightly Packed (risk increases),Low
+12,54,500,2000,4,Critical (stampede likely),Medium
+0,4,300,1500,5,Critical (stampede likely),Low
+300,55,100000,1000000,10,Critical (stampede likely),High
+24,1,10000,30000,3,Tightly Packed (risk increases),Medium
+6,1,2000,5000,2.5,Tightly Packed (risk increases),Low
+17,48,10000,25000,2.5,Tightly Packed (risk increases),Medium
+8,41,3000,10000,3.333333333,Tightly Packed (risk increases),Low
+2,20,1500,3000,2,Tightly Packed (risk increases),Low
+2,24,1000,3000,3,Tightly Packed (risk increases),Low
+40,39,2000,8000,4,Critical (stampede likely),Medium
+3,16,10000,30000,3,Tightly Packed (risk increases),Low
+8,56,15000,30000,2,Tightly Packed (risk increases),Low
+8,57,20000,40000,2,Tightly Packed (risk increases),Low
+2,26,30000,60000,2,Tightly Packed (risk increases),Low
+3,53,5000,10000,2,Tightly Packed (risk increases),Low
+22,1,1000,5000,5,Critical (stampede likely),Medium
+0,14,20000,25000,1.25,Manageable,Low
+3,1,10000,30000,3,Tightly Packed (risk increases),Low
+15,58,1000,3000,3,Tightly Packed (risk increases),Medium
+0,0,10000,30000,3,Tightly Packed (risk increases),Low
+10,53,1000,4000,4,Critical (stampede likely),Low
+1,1,2000,10000,5,Critical (stampede likely),Low
+1,59,10000,25000,2.5,Tightly Packed (risk increases),Low
+10,53,1000,5000,5,Critical (stampede likely),Low
+0,1,2000,10000,5,Critical (stampede likely),Low
+19,17,1000,5000,5,Critical (stampede likely),Medium
+2,1,5000,50000,10,Critical (stampede likely),Low
+1,60,15000,30000,2,Tightly Packed (risk increases),Low
+5,48,20000,50000,2.5,Tightly Packed (risk increases),Low
+6,16,1000,3000,3,Tightly Packed (risk increases),Low
+3,26,2000,10000,5,Critical (stampede likely),Low
+3,0,1000,5000,5,Critical (stampede likely),Low
+16,60,15000,40000,2.666666667,Tightly Packed (risk increases),Medium
+5,61,2000,10000,5,Critical (stampede likely),Low
+0,8,10000,40000,4,Critical (stampede likely),Low
+31,6,20000,100000,5,Critical (stampede likely),Medium
+3,17,1000,5000,5,Critical (stampede likely),Low
+9,21,5000,20000,4,Critical (stampede likely),Low
+56,38,30000,100000,3.333333333,Tightly Packed (risk increases),High
+20,62,5000,4500,0.9,Comfortable,Medium
+14,63,500,2000,4,Critical (stampede likely),Medium
+20,64,1000,10000,10,Critical (stampede likely),Medium
+3,65,2000,5000,2.5,Tightly Packed (risk increases),Low
+13,19,300,120,0.4,Comfortable,Medium
+15,54,3000,20000,6.666666667,Critical (stampede likely),Medium
+45,62,10000,50000,5,Critical (stampede likely),Medium
+45,29,15000,100000,6.666666667,Critical (stampede likely),Medium
+10,8,20000,50000,2.5,Tightly Packed (risk increases),Low
+53,1,1000,3000,3,Tightly Packed (risk increases),High
+66,3,1000,3000,3,Tightly Packed (risk increases),High
+251,5,1000000,2000000,2,Tightly Packed (risk increases),High
+953,6,30000,50000,1.666666667,Manageable,Critical
+291,1,10000,30000,3,Tightly Packed (risk increases),High
+224,1,1000,5000,5,Critical (stampede likely),High
+21,9,10000,25000,2.5,Tightly Packed (risk increases),Medium
+60,1,1000,3000,3,Tightly Packed (risk increases),High
+9,11,5000,20000,4,Critical (stampede likely),Low
+10,12,20000,50000,2.5,Tightly Packed (risk increases),Low
+159,13,5000,100000,20,Critical (stampede likely),High
+15,1,20000,50000,2.5,Tightly Packed (risk increases),Medium
+6,1,30000,70000,2.333333333,Tightly Packed (risk increases),Low
+6,1,40000,80000,2,Tightly Packed (risk increases),Low
+4,1,50000,100000,2,Tightly Packed (risk increases),Low
+115,1,30000,100000,3.333333333,Tightly Packed (risk increases),High
+63,1,500,5000,10,Critical (stampede likely),High
+250,1,10000,70000,7,Critical (stampede likely),High
+121,1,2000,15000,7.5,Critical (stampede likely),High
